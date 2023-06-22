@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="Automization_advanced.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Automized Gachiga Paper</title>
+</head>
+
+<body>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSchQ5Kzd_SXGBq9QXtG91f-ZeSSp1poGwP31Yes4tBIYKf3Sw/formResponse">
+
+  <div class="e4_2">
+    <div class="e15_1017">
+      <div class="e13_1066">
+        <input type="textarea" placeholder="페이퍼에 직접 반영되지는 않음" style='width: 336px; height: 29px'>
+      </div>
+      <div class="e12_1069">특이사항 메모</div>
+    </div>
+
+    <div class="e15_17">
+      <div class="e13_1048">
+        <input type="text" name="entry.1099636592" placeholder="자유롭게 적어주세요~" style='width: 246px; height: 14px'>
+      </div>
+      <div class="e12_1045">발품매니저한마디</div>
+      <div class="e13_1047">
+        <input type="text" name="entry.1721667329" placeholder="오후 O시경" style='width: 246px; height: 14px'>
+      </div>
+      <div class="e12_1042">매물확인시각</div>
+      <div class="e12_69">기타 정보</div>
+    </div>
+
+
+    <div class="e15_16">
+      <div class="e13_65">
+        <input type="checkbox" name="entry.1039741219" value="작동"><label for="entry.1039741219">작동</label>
+        <input type="checkbox" name="entry.1039741219" value="작동 X"><label for="entry.1039741219">작동 X</label>     
+      </div>
+      <div class="e13_61">작동 여부</div>
+      <div class="e13_64">
+        <input type="checkbox" name="entry.654704623" value="있음"><label for="entry.654704623">있음</label>
+        <input type="checkbox" name="entry.654704623" value="없음"><label for="entry.654704623">없음</label>
+      </div>
+      <div class="e13_58">분리수거</div>
+      <div class="e13_63">
+        <input type="checkbox" name="entry.378641518" value="자유출입"><label for="entry.378641518">자유출입</label>
+        <input type="checkbox" name="entry.378641518" value="비번"><label for="entry.378641518">비번</label>
+      </div>
+      <div class="e13_55">건물 출입</div>
+      <div class="e13_53">
+        <input type="text" name="entry.1996650269" placeholder="개별 수령" style='width: 102px; height: 14px'>
+      </div>
+      <div class="e12_60">택배 수령</div>
+      <div class="e13_52">
+        <input type="checkbox" name="entry.2073159915" value="있음"><label for="entry.2073159915">있음</label>
+        <input type="checkbox" name="entry.2073159915" value="없음"><label for="entry.2073159915">없음</label>
+      </div>
+      <div class="e12_57">복도 전등</div>
+      <div class="e13_51">
+        <input type="checkbox" name="entry.600879473" value="있음"><label for="entry.600879473">있음</label>
+        <input type="checkbox" name="entry.600879473" value="없음"><label for="entry.600879473">없음</label>
+      </div>
+      <div class="e12_54">엘리베이터</div>
+      <div class="e13_50">
+        <input type="checkbox" name="entry.1066198854" value="있음"><label for="entry.1066198854">있음</label>
+        <input type="checkbox" name="entry.1066198854" value="없음"><label for="entry.1066198854">없음</label>
+      </div>
+      <div class="e12_51">관리실</div>
+      <div class="e13_49">
+        <input type="checkbox" name="entry.1650761989" value="집앞가로등"><label for="entry.1650761989">집앞가로등</label>
+        <input type="checkbox" name="entry.1650761989" value="건물현관CCTV"><label for="entry.1650761989">건물현관CCTV</label>
+        <input type="checkbox" name="entry.1650761989" value="복도CCTV"><label for="entry.1650761989">복도CCTV</label>
+      </div>
+      <div class="e12_48">보안: 외부</div>
+      <div class="e13_48">
+        <input type="checkbox" name="entry.851201233" value="방범창"><label for="entry.851201233">방범창</label>
+        <input type="checkbox" name="entry.851201233" value="인터폰"><label for="entry.851201233">인터폰</label>
+      </div>
+      <div class="e12_45">보안: 내부</div>
+      <div class="e13_47">
+        <input type="checkbox" name="entry.914565310" value="화재경보기"><label for="entry.914565310">화재경보기</label>
+        <input type="checkbox" name="entry.914565310" value="소화기"><label for="entry.914565310">소화기</label>
+        <input type="checkbox" name="entry.914565310" value="스프링쿨러"><label for="entry.914565310">스프링쿨러</label>
+        <input type="checkbox" name="entry.914565310" value="완강기"><label for="entry.914565310">완강기</label>
+      </div>
+      <div class="e12_42">소방 시설</div>
+      <div class="e12_66">기타 시설</div>
+    </div>
+
+    
+    <div class="e15_15">
+      <div class="e13_28">
+        <input type="checkbox" name="entry.260410462" value="이상유무 / 이상있음"><label for="entry.260410462">이상O</label>
+        <input type="checkbox" name="entry.260410462" value="이상유무 / 이상없음"><label for="entry.260410462">이상X</label>
+      </div>
+      <div class="e13_45">배수</div>
+      <div class="e13_24">
+        <input type="checkbox" name="entry.1895635475" value="이상유무 / 이상있음"><label for="entry.1895635475">이상O</label>
+        <input type="checkbox" name="entry.1895635475" value="이상유무 / 이상없음"><label for="entry.1895635475">이상X</label>
+      </div>
+      <div class="e13_42">배수</div>
+      <div class="e13_19">
+        <input type="checkbox" name="entry.855933149" value="이상유무 / 이상있음"><label for="entry.855933149">이상O</label>
+        <input type="checkbox" name="entry.855933149" value="이상유무 / 이상없음"><label for="entry.855933149">이상X</label>
+      </div>
+      <div class="e13_39">배수</div>
+      <div class="e13_27">
+        <input type="checkbox" name="entry.434658584" value="이상유무 / 이상있음"><label for="entry.434658584">이상O</label>
+        <input type="checkbox" name="entry.434658584" value="이상유무 / 이상없음"><label for="entry.434658584">이상X</label>
+      </div>
+      <div class="e13_36">수압</div>
+      <div class="e13_23">
+        <input type="checkbox" name="entry.1031193804" value="이상유무 / 이상있음"><label for="entry.1031193804">이상O</label>
+        <input type="checkbox" name="entry.1031193804" value="이상유무 / 이상없음"><label for="entry.1031193804">이상X</label>
+      </div>
+      <div class="e13_33">수압</div>
+      <div class="e13_18">
+        <input type="checkbox" name="entry.1862944322" value="이상유무 / 이상있음"><label for="entry.1862944322">이상O</label>
+        <input type="checkbox" name="entry.1862944322" value="이상유무 / 이상없음"><label for="entry.1862944322">이상X</label>
+      </div>
+      <div class="e13_30">수압</div>
+      <div class="e12_39">변기</div>
+      <div class="e12_36">샤워실</div>
+      <div class="e12_33">세면대</div>
+      <div class="e13_16">
+        <input type="text" name="entry.797060820" placeholder="상세사항" style='width: 97px; height: 14px'>
+      </div>
+      <div class="e13_10">
+        <input type="checkbox" name="entry.2013656823" value="이상유무 / 이상있음"><label for="entry.2013656823">이상O</label>
+        <input type="checkbox" name="entry.2013656823" value="이상유무 / 이상없음"><label for="entry.2013656823">이상X</label>
+      </div>
+      <div class="e12_30">곰팡이, 얼룩</div>
+      <div class="e13_9">
+        <input type="checkbox" name="entry.733937690" value="창문통풍 / 창문있음통풍있음"><label for="entry.733937690">창문O 통풍기O</label>
+        <input type="checkbox" name="entry.733937690" value="창문통풍 / 창문있음통풍없음"><label for="entry.733937690">창문O 통풍기X</label><br>
+        <input type="checkbox" name="entry.733937690" value="창문통풍 / 창문없음통풍있음"><label for="entry.733937690">창문X 통풍기O</label>
+        <input type="checkbox" name="entry.733937690" value="창문통풍 / 창문없음통풍없음"><label for="entry.733937690">창문X 통풍기X</label>
+      </div>
+      <div class="e12_27">통풍</div>
+      <div class="e13_15">
+        <input type="text" name="entry.934973685" placeholder="상세사항" style='width: 97px; height: 32px'>
+      </div>
+      <div class="e13_8">
+        <input type="checkbox" name="entry.1100405707" value="이상유무 / 이상있음"><label for="entry.1100405707">이상O</label>
+        <input type="checkbox" name="entry.1100405707" value="이상유무 / 이상없음"><label for="entry.1100405707">이상X</label>
+      </div>
+      <div class="e12_24">흔들거림</div>
+      <div class="e13_14">
+        <input type="text" name="entry.1784314495" placeholder="상세사항" style='width: 97px; height: 32px'>
+      </div>
+      <div class="e13_7">
+        <input type="checkbox" name="entry.1200230125" value="이상유무 / 이상있음"><label for="entry.1200230125">이상O</label>
+        <input type="checkbox" name="entry.1200230125" value="이상유무 / 이상없음"><label for="entry.1200230125">이상X</label>
+      </div>
+      <div class="e12_21">깨짐</div>
+      <div class="e12_63">화장실</div>
+    </div>
+
+    
+    <div class="e15_14">
+      <div class="e13_13">
+        <input type="text" name="entry.309520704" placeholder="상세사항" style='width: 97px; height: 14px'>
+      </div>
+      <div class="e13_6">
+        <input type="checkbox" name="entry.709434060" value="이상유무 / 이상있음"><label for="entry.709434060">이상O</label>
+        <input type="checkbox" name="entry.709434060" value="이상유무 / 이상없음"><label for="entry.709434060">이상X</label>
+      </div>
+      <div class="e12_18">바퀴약</div>
+      <div class="e13_12">
+        <input type="text" name="entry.1786639216" placeholder="상세사항" style='width: 97px; height: 32px'>
+      </div>
+      <div class="e13_5">
+        <input type="checkbox" name="entry.78598428" value="이상유무 / 이상있음"><label for="entry.78598428">이상O</label>
+        <input type="checkbox" name="entry.78598428" value="이상유무 / 이상없음"><label for="entry.78598428">이상X</label>
+      </div>
+      <div class="e12_15">곰팡이, 얼룩</div>
+      <div class="e13_4">
+        <input type="checkbox" name="entry.299395090" value="이상유무 / 이상있음"><label for="entry.299395090">이상O</label>
+        <input type="checkbox" name="entry.299395090" value="이상유무 / 이상없음"><label for="entry.299395090">이상X</label>
+      </div>
+      <div class="e12_12">인덕션 작동</div>
+      <div class="e13_3">
+        <input type="checkbox" name="entry.1844310268" value="이상유무 / 이상있음"><label for="entry.1844310268">이상O</label>
+        <input type="checkbox" name="entry.1844310268" value="이상유무 / 이상없음"><label for="entry.1844310268">이상X</label>
+      </div>
+      <div class="e12_9">싱크대 배수</div>
+      <div class="e13_2">
+        <input type="checkbox" name="entry.460438420" value="이상유무 / 이상있음"><label for="entry.460438420">이상O</label>
+        <input type="checkbox" name="entry.460438420" value="이상유무 / 이상없음"><label for="entry.460438420">이상X</label>
+      </div>
+      <div class="e12_6">후드 오염</div>
+      <div class="e12_3">부엌</div>
+    </div>
+
+    
+    <div class="e15_13">
+      <div class="e10_19">
+        <input type="text" name="entry.1101695284" placeholder="상세사항" style='width: 97px; height: 14px'>
+      </div>
+      <div class="e10_18">
+        <input type="checkbox" name="entry.593139559" value="이상유무 / 이상있음"><label for="entry.593139559">이상O</label>
+        <input type="checkbox" name="entry.593139559" value="이상유무 / 이상없음"><label for="entry.593139559">이상X</label>
+      </div>
+      <div class="e18_9">곰팡이, 얼룩</div>
+      <div class="e10_16">
+        <input type="text" name="entry.585177893" placeholder="상세사항" style='width: 97px; height: 14px'> 
+      </div>
+      <div class="e10_15">
+        <input type="checkbox" name="entry.1399807942" value="이상유무 / 이상있음"><label for="entry.1399807942">이상O</label>
+        <input type="checkbox" name="entry.1399807942" value="이상유무 / 이상없음"><label for="entry.1399807942">이상X</label>
+      </div>
+      <div class="e18_6">누수 흔적</div>
+      <div class="e9_3">
+        <input type="text" name="entry.1803092690" placeholder="상세사항" style='width: 97px; height: 14px'> 
+      </div>
+      <div class="e8_79">
+        <input type="checkbox" name="entry.376167888" value="이상유무 / 이상있음"><label for="entry.376167888">이상O</label>
+        <input type="checkbox" name="entry.376167888" value="이상유무 / 이상없음"><label for="entry.376167888">이상X</label>
+      </div>
+      <div class="e8_74">방 전체 냄새</div>
+      <div class="e8_53">위생</div>
+      <div class="e8_73">
+        <input type="text" name="entry.344536953" placeholder="근처에 놀이터가 있어서 소음 발생 우려가 있음" style='width: 275px; height: 14px'>  
+      </div>
+      <div class="e8_72">
+        <input type="checkbox" name="entry.671328440" value="소음정도상중하 / 없음"><label for="entry.671328440">없음</label>
+        <input type="checkbox" name="entry.671328440" value="소음정도상중하 / 우려"><label for="entry.671328440">우려</label>
+        <input type="checkbox" name="entry.671328440" value="소음정도상중하 / 있음"><label for="entry.671328440">있음</label>    
+      </div>
+      <div class="e8_50">소음</div>
+      <div class="e8_71">
+        <input type="checkbox" name="entry.872477176" value="있음"><label for="entry.872477176">있음</label>
+        <input type="checkbox" name="entry.872477176" value="없음"><label for="entry.872477176">없음</label>
+      </div>
+      <div class="e18_18">창문 앞 건물</div>
+      <div class="e1018_15">일조량</div>
+      <div class="e8_70">
+        <input type="checkbox" name="entry.296074522" value="해가들어오는정도상중하 / 상"><label for="entry.296074522">상</label>
+        <input type="checkbox" name="entry.296074522" value="해가들어오는정도상중하 / 중"><label for="entry.296074522">중</label>
+        <input type="checkbox" name="entry.296074522" value="해가들어오는정도상중하 / 하"><label for="entry.296074522">하</label>
+      </div>
+      <div class="e18_15">창문 방향</div>
+      <div class="e8_69">
+        <input type="checkbox" name="entry.439152595" value="북향"><label for="entry.439152595">북</label>
+        <input type="checkbox" name="entry.439152595" value="북동향"><label for="entry.439152595">북동</label>
+        <input type="checkbox" name="entry.439152595" value="동향"><label for="entry.439152595">동</label>
+        <input type="checkbox" name="entry.439152595" value="남동향"><label for="entry.439152595">남동</label>
+        <input type="checkbox" name="entry.439152595" value="남향"><label for="entry.439152595">남</label>
+        <input type="checkbox" name="entry.439152595" value="남서향"><label for="entry.439152595">남서</label>
+        <input type="checkbox" name="entry.439152595" value="서향"><label for="entry.439152595">서</label>
+        <input type="checkbox" name="entry.439152595" value="북서향"><label for="entry.439152595">북서</label>
+      </div>
+      <div class="e8_47">채광</div>
+      <div class="e8_68">
+        <input type="checkbox" name="entry.850642017" value="신발장"><label for="entry.850642017">신발장</label>
+        <input type="checkbox" name="entry.850642017" value="옷장"><label for="entry.850642017">옷장</label>
+        <input type="checkbox" name="entry.850642017" value="침대 및 서랍"><label for="entry.850642017">침대 및 서랍</label><br>
+        <input type="checkbox" name="entry.850642017" value="선반"><label for="entry.850642017">선반</label>
+        <input type="checkbox" name="entry.850642017" value="책상"><label for="entry.850642017">책상</label>
+        <input type="checkbox" name="entry.850642017" value="수납장"><label for="entry.850642017">수납장</label>
+      </div>
+      <div class="e8_44">수납 위치</div>
+      <div class="e8_67">
+        <input type="checkbox" name="entry.351018837" value="수납공간상중하 / 상"><label for="entry.351018837">상</label> 
+        <input type="checkbox" name="entry.351018837" value="수납공간상중하 / 중"><label for="entry.351018837">중</label> 
+        <input type="checkbox" name="entry.351018837" value="수납공간상중하 / 하"><label for="entry.351018837">하</label> 
+      </div>
+      <div class="e8_41">수납 공간</div>
+      <div class="e8_66">
+        <input type="checkbox" name="entry.1765793695" value="자율난방"><label for="entry.1765793695">자율난방</label> 
+        <input type="checkbox" name="entry.1765793695" value="중앙난방"><label for="entry.1765793695">중앙난방</label> 
+      </div>
+      <div class="e8_38">난방 방식</div>
+      <div class="e8_64">
+        <input type="checkbox" name="entry.134166386" value="가스레인지"><label for="entry.134166386">가스레인지</label> 
+        <input type="checkbox" name="entry.134166386" value="인덕션"><label for="entry.134166386">인덕션</label> 
+        <input type="checkbox" name="entry.134166386" value="냉장고"><label for="entry.134166386">냉장고</label>
+        <input type="checkbox" name="entry.134166386" value="건조기"><label for="entry.134166386">건조기</label><br> 
+        <input type="checkbox" name="entry.134166386" value="세탁기"><label for="entry.134166386">세탁기</label> 
+        <input type="checkbox" name="entry.134166386" value="에어컨"><label for="entry.134166386">에어컨</label>
+        <input type="checkbox" name="entry.134166386" value="옷장"><label for="entry.134166386">옷장</label> 
+        <input type="checkbox" name="entry.134166386" value="침대"><label for="entry.134166386">침대</label><br>
+        <input type="checkbox" name="entry.134166386" value="전자레인지"><label for="entry.134166386">전자레인지</label>
+        <input type="checkbox" name="entry.134166386" value="책상"><label for="entry.134166386">책상</label> 
+        <input type="checkbox" name="entry.134166386" value="TV"><label for="entry.134166386">TV</label> 
+        <input type="checkbox" name="entry.134166386" value="소파"><label for="entry.134166386">소파</label> 
+      </div>
+      <div class="e8_35">옵션</div>
+      <div class="e8_65">
+        <input type="checkbox" name="entry.223961597" value="오픈형"><label for="entry.223961597">오픈형</label>
+        <input type="checkbox" name="entry.223961597" value="분리형"><label for="entry.223961597">분리형</label> 
+      </div>
+      <div class="e8_63">
+        <input type="checkbox" name="entry.1808107788" value="원룸"><label for="entry.1808107788">원룸</label>
+        <input type="checkbox" name="entry.1808107788" value="원룸"><label for="entry.1808107788">투룸</label>
+      </div>
+      <div class="e8_32">방 종류</div>
+      <div class="e9_6">방</div>
+    </div>
+
+
+    <div class="e15_12">
+      <div class="e8_1062">
+        <input type="text" name="entry.711045744" placeholder="약 O평" style='width: 275px; height: 14px'> 
+      </div>
+      <div class="e8_1029">평수</div>
+      <div class="e8_62">
+        <input type="text" name="entry.2047271774" placeholder="(편의점, 세탁소, 카페, 음식점) - 괄호 필수!!" style='width: 275px; height: 14px'> 
+      </div>
+      <div class="e8_29">편의시설</div>
+      <div class="e8_61">
+        <input type="checkbox" name="entry.415395231" value="역세권"><label for="entry.415395231">역세권</label>
+        <input type="checkbox" name="entry.415395231" value="학세권"><label for="entry.415395231">학세권</label>
+        <input type="checkbox" name="entry.415395231" value="편세권"><label for="entry.415395231">편세권</label>
+        <input type="checkbox" name="entry.415395231" value="숲세권"><label for="entry.415395231">숲세권</label>
+      </div>
+      <div class="e8_26">입지</div>
+      <div class="e8_60">
+        <input type="text" name="entry.1406391332" placeholder="없으면 - 로 표시" style='width: 275px; height: 14px'> 
+      </div>
+      <div class="e8_23">불편 사항</div>
+      <div class="e8_59">
+        <input type="text" name="entry.1055509161" placeholder="층 / 전체 층" style='width: 275px; height: 14px'> 
+      </div>
+      <div class="e8_20">층수</div>
+      <div class="e10_9">건물</div>
+    </div>
+
+    <div class="e15_7">
+      <div class="e8_58">
+        <input type="text" name="entry.376759934" placeholder="10만원" style='width: 275px; height: 14px'>       
+      </div>
+      <div class="e8_14">관리비</div>
+      <div class="e8_57">
+        <input type="text" name="entry.1151348208" placeholder="즉시 입주 가능, 2023년 6월 22일" style='width: 275px; height: 14px'>    
+      </div>
+      <div class="e15_10">입주 가능일</div>
+      <div class="e8_56">
+        <input type="text" name="entry.623768051" placeholder="(보증금을 물어보는 란) 1000만원, -" style='width: 275px; height: 14px'>  
+      </div>
+      <div class="e8_55">
+        <input type="text" name="entry.1489589769" placeholder="월세 50만원, 전세 1억" style='width: 275px; height: 14px'>
+      </div>
+      <div class="e8_11">계약 형태</div>
+      <div class="e10_12">계약 관련 사항</div>
+    </div>
+
+
+    <div class="e15_18">
+      <div class="e8_9">
+        <input type="text" name="entry.1419004373" placeholder="원룸텔/고시원 ..." style='width: 140px; height: 14px'>
+      </div>
+      <div class="e8_7">건물종류</div>
+      <div class="e8_5">
+        <input type="text" name="entry.1283038849" placeholder="프라임빌" style='width: 70px; height: 14px'>
+      </div>
+      <div class="e8_3">건물명</div>
+      <div class="e4_11">
+        <input type="text" name="entry.1422070255" placeholder="서울특별시 관악구 관악로 14길 651동 1005호" style='width: 140px; height: 14px'>
+      </div>
+      <div class="e4_9">주소</div>
+      <div class="e4_6">
+        <input type="text" name="entry.1051193025" placeholder="매물 1" style='width: 70px; height: 14px'>
+      </div>
+      <div class="e4_4">매물번호</div>
+    </div>
+    
+    <span  class="e14_69" style="font-size: 12px; font-weight: bold">매물 확인 후 작성 사항 </span>
+
+
+    <div class="e15_19">
+      <div class="e14_41">
+        <input type="textarea" placeholder="페이퍼에 반영되지는 않음" style='width: 336px; height: 130px'>
+      </div>
+      <div class="e14_10">고객 요청 사항 메모</div>
+    </div>
+
+
+    <div class="e15_6">
+      <div class="e14_40">
+        <input type="text" name="entry.1818810450" placeholder="" style='width: 275px; height: 14px'>
+      </div>
+      <div class="e14_32">3순위</div>
+      <div class="e14_39">
+        <input type="text" name="entry.1835019113" placeholder="" style='width: 275px; height: 14px'>
+      </div>
+      <div class="e14_28">2순위</div>
+      <div class="e14_38">
+        <input type="text" name="entry.1435861057" placeholder="" style='width: 275px; height: 14px'>
+      </div>
+      <div class="e14_25">1순위</div>
+      <div class="e15_3">매물 판단 우선 순위</div>
+    </div>
+
+
+    <div class="e15_5">
+      <div class="e14_45">
+        <input type="text" name="entry.781142493" placeholder="2023년 6월 22일" style='width: 275px; height: 14px'>
+      </div>
+      <div class="e14_43">서비스 날짜</div>
+      <div class="e14_37">
+        <input type="text" placeholder="페이퍼에 반영되지는 않음" style='width: 275px; height: 14px'>
+      </div>
+      <div class="e14_22">입주 희망일</div>
+      <div class="e14_36">
+        <input type="text" name="entry.1721341952" placeholder="보증금 1000 / 월세 50, 전세 1억" style='width: 275px; height: 14px'>
+      </div>
+      <div class="e14_19">예산</div>
+      <div class="e14_35">
+        <input type="checkbox" name="entry.266614966" value="원룸텔"><label for="entry.266614966">원룸텔</label>
+        <input type="checkbox" name="entry.266614966" value="원룸텔"><label for="entry.266614966">투룸</label>
+        <input type="checkbox" name="entry.266614966" value="원룸텔"><label for="entry.266614966">오피스텔</label>
+        <input type="checkbox" name="entry.266614966" value="원룸텔"><label for="entry.266614966">고시원</label>
+      </div>
+      <div class="e14_16">매물 형태</div>
+      <div class="e14_34">
+        <input type="text" name="entry.968667445" style='width: 275px; height: 14px'>
+      </div>
+      <div class="e14_13">이름</div>
+      <div class="e14_4">고객 정보</div>
+    </div>
+    
+    <span  class="e14_46" style="font-size: 12px; font-weight: bold">사전 작성 사항</span>
+  </div>
+  <div>
+    <button class="submit_form" type="submit">Submit Form</button>
+  </div>
+</form>
+</body>
+</html>
